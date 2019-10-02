@@ -1,0 +1,3 @@
+# Week1
+
+In week 1 we learned basics of git and github which helped us in understanding version control and lab sumission assignments.

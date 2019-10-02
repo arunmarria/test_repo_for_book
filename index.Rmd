@@ -1,0 +1,19 @@
+--- 
+title: "Book for DSCI 521"
+author: "Arun Marria"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is the book for a short summary of  things learned in course"
+---
+
+# Introduction
+
+This book just summarizes 4 weeks of learnings from DSCI 521.
+
+
